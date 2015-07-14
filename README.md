@@ -1,6 +1,6 @@
 ## Sensu-Plugins-cgroups
 
-[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-cgroups.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-cgroups)
+[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-cgroups.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-cgroups)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-cgroups.svg)](http://badge.fury.io/rb/sensu-plugins-cgroups)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-cgroups/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-cgroups)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-cgroups/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-cgroups)
